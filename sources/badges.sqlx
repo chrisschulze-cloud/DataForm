@@ -4,3 +4,4 @@ config {
   schema: "stackoverflow",
   name: "badges"
  }
+ SELECT 1 as test
